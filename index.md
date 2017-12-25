@@ -5,4 +5,4 @@
 Love,
 Carissa and Erin
 
-![./dog.jpg]
+![Gibbs says bummer.](./dog.jpg)
