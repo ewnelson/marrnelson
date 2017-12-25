@@ -4,3 +4,5 @@
 
 Love,
 Carissa and Erin
+
+![./dog.jpg]
